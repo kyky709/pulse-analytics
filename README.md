@@ -139,24 +139,7 @@ Edit CSS variables in `src/app/globals.css`:
 2. Add `page.tsx` with your component
 3. Update navigation in `src/components/layout/Sidebar.tsx`
 
-## Deployment
 
-### Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Import project to [Vercel](https://vercel.com)
-3. Add environment variables
-4. Deploy
-
-### Other Platforms
-
-Build the production bundle:
-
-```bash
-npm run build
-```
-
-The output will be in the `.next` folder.
 
 ## License
 
